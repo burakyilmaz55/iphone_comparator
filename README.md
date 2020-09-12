@@ -1,2 +1,2 @@
 # iphone_comparator
-Iphone ücretlerini ana alışveriş sitelerinden kıyaslayan uygulama.
+Ana alışveriş sitelerindeki Iphone ücretlerini linkleriyle veren uygulama.
